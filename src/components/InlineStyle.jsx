@@ -11,7 +11,6 @@ export const InlineStyle = () => {
 
   const titleStyle = {
     margin: 0,
-    padding: 0,
     color: "#3d84a8"
   };
 
